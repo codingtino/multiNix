@@ -26,7 +26,7 @@ in
     ./git.nix
     ./kitty.nix
     ./screen.nix
-    ./ssh.nix
+    #    ./ssh.nix
     ./zoxide.nix
   ];
 

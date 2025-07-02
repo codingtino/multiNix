@@ -2,9 +2,9 @@
 {
   environment.systemPackages = builtins.attrValues {
     inherit (pkgs.nvtopPackages)
-      amd
+      #amd
       intel
-      #nvidia
+      nvidia
       ;
   };
 }
