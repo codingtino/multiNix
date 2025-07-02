@@ -429,19 +429,17 @@
         "nixpkgs": "nixpkgs"
       },
       "locked": {
-        "lastModified": 1742347319,
-        "narHash": "sha256-NG8+15IhqGdWFcWqwwXcON9krv1osS2SpgsVynaq5EA=",
-        "ref": "main",
-        "rev": "b7792757acf95d716fa34a03559094c6ed75120b",
-        "shallow": true,
+        "lastModified": 1751397278,
+        "narHash": "sha256-fysYbq0tERXDwj3uIzZ+QK7AkPyX0Lyr2oa0IDutZu8=",
+        "ref": "refs/heads/main",
+        "rev": "0cc438f0fe7d1d420ef4108412afea0ee3c5a551",
+        "revCount": 1,
         "type": "git",
-        "url": "ssh://git@gitlab.com/emergentmind/nix-secrets.git"
+        "url": "ssh://git@github.com/codingtino/multiNix-secrets.git"
       },
       "original": {
-        "ref": "main",
-        "shallow": true,
         "type": "git",
-        "url": "ssh://git@gitlab.com/emergentmind/nix-secrets.git"
+        "url": "ssh://git@github.com/codingtino/multiNix-secrets.git"
       }
     },
     "nixpkgs": {
