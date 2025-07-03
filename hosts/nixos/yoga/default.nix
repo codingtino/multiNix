@@ -18,6 +18,7 @@
     # ========== Hardware ==========
     #
     ./hardware-configuration.nix
+    ./disk.nix
     #    inputs.hardware.nixosModules.common-cpu-amd
     #    inputs.hardware.nixosModules.common-gpu-amd
     #    inputs.hardware.nixosModules.common-pc-ssd
