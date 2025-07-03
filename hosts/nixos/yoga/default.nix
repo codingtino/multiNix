@@ -26,7 +26,7 @@
     # ========== Disk Layout ==========
     #
     inputs.disko.nixosModules.disko
-    (lib.custom.relativeToRoot "hosts/common/disks/ghost.nix")
+    (lib.custom.relativeToRoot "hosts/common/disks/yoga.nix")
 
     #
     # ========== Misc Inputs ==========
