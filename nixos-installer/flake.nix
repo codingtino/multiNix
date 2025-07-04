@@ -62,6 +62,7 @@
         grief = newConfig "grief" "/dev/vda" 0 false false;
         guppy = newConfig "guppy" "/dev/vda" 0 false false;
         gusto = newConfig "gusto" "/dev/nvme0n1" 8 false false;
+        yoga = newConfig "yoga" "/dev/nvme0n1" 8 false false;
 
         ghost = nixpkgs.lib.nixosSystem {
           system = "x86_64-linux";
